@@ -26,7 +26,7 @@ https://rutube.ru/video/private/c27554c7ee4a7be0d37a113f3615e863/?p=OU3gTJbmrcIt
 
 ## Лабораторная 3а
 Вариант 4
-![alt text](image2/image.png)
+![alt text](image/image2.png)
 ```bash
 #!/bin/bash
 echo "--- Рекурсивный поиск запущен ---"
