@@ -1,0 +1,3 @@
+﻿C:\Base\OS\OS\лаба3б\apple.txt
+C:\Base\OS\OS\лаба3б\texts\gg.txt
+C:\Base\OS\OS\лаба3б\texts\next\text.txt

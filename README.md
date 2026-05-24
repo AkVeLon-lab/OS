@@ -49,3 +49,26 @@ else
     rm "$OUTPUT_FILE"
 fi
 ```
+
+## Лабораторная 3б
+Вариант 4
+![alt text](image/image4.png)
+```ps1
+param (
+    [Parameter(Mandatory=$true)]
+    [string]$SearchStr
+)
+
+$OutputFile = "found_files.txt"
+
+$results = Get-ChildItem -Recurse -Filter "*.txt" | 
+           Select-String -Pattern $SearchStr | 
+           Select-Object -Unique Path
+
+if ($results) {
+    $results.Path | Out-File -FilePath $OutputFile -Encoding utf8
+    Write-Host "Done. Check $OutputFile"
+} else {
+    Write-Host "No matches found."
+}
+```
