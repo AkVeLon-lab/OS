@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "723fae84b93d4522",
+        "id": "6dd00d50bd04f88f",
         "type": "tabs",
         "children": [
           {
-            "id": "596aec05f0b9d482",
+            "id": "f6d746b8b1d1165c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -183,8 +179,20 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "596aec05f0b9d482",
+  "active": "f6d746b8b1d1165c",
   "lastOpenFiles": [
+    "Pasted image 20260524215357.png",
+    "README.md",
+    "лаба2/found_files.txt",
+    "лаба2/texts/next/text.txt",
+    "лаба2/texts/next",
+    "лаба2/texts/folder",
+    "лаба2/texts/found_file.txt",
+    "лаба2/texts/gg.txt",
+    "лаба2/texts",
+    "лаба2/found_file.txt",
+    "лаба2/apple.txt",
+    "лаба2/f.sh",
     "image/Pasted-image-20260509194905.png",
     "image/Pasted-image-20260509194228.png",
     "image/Pasted-image-20260509193200.png",
@@ -193,19 +201,6 @@
     "image/Pasted-image-20260509191918.png",
     "image/Pasted image 20260509194905.png",
     "image/Pasted image 20260509193200.png",
-    "README.md",
-    "лаба1/2/bin/fibo",
-    "лаба1/2/bin",
-    "лаба1/2/obj/fibonacci.o",
-    "лаба1/2/obj/main.o",
-    "лаба1/2/obj",
-    "image/Pasted image 20260509194228.png",
-    "лаба1/1/fib",
-    "image/Pasted image 20260509193134.png",
-    "лаба1/2/Makefile",
-    "лаба1/2/include/fibonacci.h",
-    "лаба1/2/include",
-    "лаба1/2/src/main.cpp",
-    "image/Pasted image 20260509191948.png"
+    "image/Pasted image 20260509194228.png"
   ]
 }
